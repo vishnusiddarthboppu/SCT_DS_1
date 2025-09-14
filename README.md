@@ -29,25 +29,6 @@ Used for categorical variables like gender. It shows the count (or frequency) of
 Histogram
 Used for continuous variables like age. It groups values into bins and shows the frequency distribution.
 
-=> How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/population-distribution-viz.git
-cd population-distribution-viz
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open the Jupyter Notebook:
-
-jupyter notebook population_distribution_viz.ipynb
-
-
-Run all cells to generate the charts.
 
  =>Requirements
 
